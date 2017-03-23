@@ -1,0 +1,61 @@
+html {
+	height: 320px;
+	
+}
+
+body {
+	margin: 0 0 0 0;
+	background-color: black;
+}
+#display-here {
+	text-align: right;
+	position: relative;
+	width: 80%
+	height: 20%;
+	margin: 5% 5% 5% 5%;
+	background-color: #303;
+	color: white;
+	padding: 2% 5% 2% 5%;
+	font-size: 24px;
+	font-family: "Verdana";
+	border-radius: 4%;
+	overflow-x: auto;
+
+}
+
+#calc-buttons {
+	position: relative;
+	width: 80%
+	height: 80%
+	text-align: center;
+	color: white;
+	font-size: 24px;
+	font-family: "Verdana";
+}
+
+table {
+	position: relative;
+	margin: 8% auto 2% auto;
+}
+
+td, button {
+	width: 50px;
+	height: 50px;
+	padding: none;
+	font-size: 24px;
+	color: white;
+	background-color: #303;
+
+}
+
+footer {
+	position: absolute;
+	bottom: 1%;
+	right: 2%;	
+	margin: 0 0 0 0;
+	font-family: "Verdana";
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}
+
